@@ -1,0 +1,14 @@
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\bin\Debug\netcoreapp3.1\Полиморфизм.exe
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\bin\Debug\netcoreapp3.1\Полиморфизм.deps.json
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\bin\Debug\netcoreapp3.1\Полиморфизм.runtimeconfig.json
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\bin\Debug\netcoreapp3.1\Полиморфизм.runtimeconfig.dev.json
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\bin\Debug\netcoreapp3.1\Полиморфизм.dll
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\bin\Debug\netcoreapp3.1\Полиморфизм.pdb
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.csproj.AssemblyReference.cache
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.AssemblyInfoInputs.cache
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.AssemblyInfo.cs
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.csproj.CoreCompileInputs.cache
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.dll
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.pdb
+C:\Users\Rikimaru\source\repos\Полиморфизм\Полиморфизм\obj\Debug\netcoreapp3.1\Полиморфизм.genruntimeconfig.cache
